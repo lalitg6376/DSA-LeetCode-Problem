@@ -25,8 +25,6 @@ class Solution:
                 return False
         
         return True
-
-
 obj = Solution()
 print(obj.validMountainArray([2, 0, 2]))     # False
 print(obj.validMountainArray([0, 3, 2, 1]))  # True
