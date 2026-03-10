@@ -24,4 +24,3 @@ class Solution:
 obj = Solution()    
 ans = obj.reverseVowels(list("hello"))  
 print(ans)
-    
