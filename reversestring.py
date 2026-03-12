@@ -13,4 +13,3 @@ class Solution:
 
 obj = Solution()
 obj.reverseString(["h", "e", "l", "l", "o"])
-        
