@@ -1,7 +1,5 @@
 # Maximum Erasure Value
 
-
-
 class Solution:
     def maximumUniqueSubarray(self,num):
         start = 0
