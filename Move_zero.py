@@ -1,5 +1,4 @@
-
-
+#move zero
 class Solution:
     def moveZeroes(self, nums):
         j=0
@@ -13,4 +12,3 @@ obj = Solution()
 ans  = obj.moveZeroes([1,2,0,3])
 
 print(ans)
-
