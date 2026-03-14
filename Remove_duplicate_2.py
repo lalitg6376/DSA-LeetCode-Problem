@@ -11,7 +11,6 @@ class Solution:
                 
         return len(output)
                
-
 obj = Solution()
 ans = obj.removeDuplicates([1,1,1,2,2,3,3])
 print(ans)
