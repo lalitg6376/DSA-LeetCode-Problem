@@ -10,6 +10,5 @@ class Solution:
 
         print(s)
 
-
 obj = Solution()
 obj.reverseString(["h", "e", "l", "l", "o"])
