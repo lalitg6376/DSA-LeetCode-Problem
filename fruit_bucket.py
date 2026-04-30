@@ -18,7 +18,6 @@ class Solution:
 
             maxlen = max(maxlen,end-Start+1)
         return maxlen
-    
 obj = Solution()
 ans = obj.totalFruit([1,2,1,2,3])
 print(ans)
