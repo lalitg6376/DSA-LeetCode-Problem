@@ -9,7 +9,7 @@ class Solution:
                 max_sum=window_sum
 
         return max_sum/k
-    
+  
 obj = Solution()
 ans = obj.findMaxAverage([1,2,3,4],3)
 print(ans)
