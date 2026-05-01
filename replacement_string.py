@@ -15,7 +15,7 @@ def replacement_string(s):
             j-=1
             replacement+=1
     return replacement,s
-            
+    
 ans = replacement_string("abca")
 print(ans[0])
 print(ans[1])
