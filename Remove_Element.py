@@ -6,5 +6,4 @@ class Solution:
                 nums[k] = nums[i]
 
         return k 
-
 print(Solution().removeElement([1,2,2,3],3))
