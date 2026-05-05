@@ -7,7 +7,7 @@ The goal is to improve problem-solving skills, strengthen core concepts, and pre
 
 📌 Platform: LeetCode
 
-💻 Language Used: Python (can be updated if you use more)
+💻 Language Used: Python
 
 🎯 Focus Areas:
 
