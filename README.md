@@ -1,30 +1,46 @@
-# DSA-LeetCode-Problem
-DSA is most important for placement.
-This repository contains my solutions to Data Structures and Algorithms (DSA) problems from LeetCode.
-The goal is to improve problem-solving skills, strengthen core concepts, and prepare for coding interviews.
+# 📘 DSA LeetCode Solutions Repository
 
-🚀 About
+This repository contains my solutions to various DSA (Data Structures & Algorithms) problems from LeetCode. It is used for consistent practice, improving problem-solving skills, and preparing for coding interviews.
 
-📌 Platform: LeetCode
+---
 
-💻 Language Used: Python
+## 🧠 About This Repository
 
-🎯 Focus Areas:
+Here I regularly upload solved problems from different DSA topics such as arrays, strings, recursion, linked list, stack, queue, trees, graphs, dynamic programming, and more.
 
-Arrays
+Each solution is written with a focus on:
 
-Strings
+* Clear logic 💡
+* Optimized approach ⚡
+* Clean and readable code 🧹
 
-Linked Lists
+---
 
-Stacks & Queues
+## 🚀 Purpose
 
-Trees & Graphs
+The main goal of this repository is to:
 
-Dynamic Programming
+* Strengthen DSA fundamentals 📊
+* Improve coding speed and accuracy ⏱️
+* Track my daily/regular practice 📈
+* Prepare for technical interviews 🎯
 
-Sliding Window
+---
 
-Two Pointers
+## 🧩 Topics Covered
 
-Recursion & Backtracking
+* Arrays & Strings
+* Sorting & Searching
+* Recursion & Backtracking
+* Stack & Queue
+* Linked List
+* Trees & Binary Trees
+* Graphs
+* Dynamic Programming
+* Greedy Algorithms
+
+---
+
+## 🛠️ Language Used
+
+* Python 🐍 (primary language)
